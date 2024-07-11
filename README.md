@@ -1,6 +1,7 @@
 # Python Background Remover
 
 Background Remover é uma aplicação simples em Python que facilita a remoção do fundo de imagens através de uma interface simples e intuitiva.
+
 Utiliza as bibliotecas Tkinter para a interface gráfica e rembg para o processamento das imagens.
 
 ## Pré-requisitos
@@ -24,12 +25,12 @@ Bibliotecas:
 
 Ao executar o programa, uma janela do Python Background Remover será aberta. Siga as seguintes etapas para usar o programa:
 
-Clique no botão "Upload" para adicionar uma imagem.
-A imagem será exibida na área de visualização à esquerda.
-Clique no botão "Remover" para remover o fundo da imagem.
-A imagem com o fundo removido será exibida na área de visualização à direita.
-Clique no botão "Download" para salvar a imagem com o fundo removido.
-Clique no botão "Cancelar" para cancelar a operação atual.
+- Clique no botão "Upload" para adicionar uma imagem.
+- A imagem será exibida na área de visualização à esquerda.
+- Clique no botão "Remover" para remover o fundo da imagem.
+- A imagem com o fundo removido será exibida na área de visualização à direita.
+- Clique no botão "Download" para salvar a imagem com o fundo removido.
+- Clique no botão "Cancelar" para cancelar a operação atual.
 
 ## Contribuição
 
